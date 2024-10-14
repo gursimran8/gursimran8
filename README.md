@@ -12,7 +12,6 @@ Welcome to my GitHub profile! I am a **Data Enthusiast** and a polished **Data-d
 ![SSIS](https://img.shields.io/badge/SSIS-BA141A?style=for-the-badge&logo=ssis&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 You can check out one of my ETL projects here:
