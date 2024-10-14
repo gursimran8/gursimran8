@@ -8,6 +8,17 @@ Welcome to my GitHub profile! I am a **Data Enthusiast** and a polished **Data-d
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SSIS](https://img.shields.io/badge/SSIS-BA141A?style=for-the-badge&logo=ssis&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+You can check out one of my ETL projects here:
+
+- **[SSIS-MySQL-ETL-Project](https://github.com/gursimran8/SSIS-MySQL-ETL-Project)**: ETL Project using SSIS to load e-commerce data into MySQL.
+
 
 ### 📊 Current Projects:
 - **[Data-cleaning-and-VBA](https://github.com/gursimran8/Data-cleaning-and-VBA)**: Automating data cleaning tasks using Python and SQL to streamline the workflow.
