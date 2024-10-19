@@ -20,9 +20,11 @@ You can check out one of my ETL projects here:
 
 
 ### 📊 Current Projects:
+- **[SSIS-MySQL-ETL-Project](https://github.com/gursimran8/SSIS-MySQL-ETL-Project):** Demonstrating how to load and perform ETL on e-commerce data from a flat file into a MySQL database using SQL Server Integration Services (SSIS)
+- **[Logistic Regression](https://github.com/gursimran8/Titanic_Logistic_Regression)**: Predict the survival of Titanic passengers based on various factors such as gender, passenger class, age, fare, and more.
 - **[Data-cleaning-and-VBA](https://github.com/gursimran8/Data-cleaning-and-VBA)**: Automating data cleaning tasks using Python and SQL to streamline the workflow.
 - **[Business-Analyst-Power-BI](https://github.com/gursimran8/Business-Analyst-Power-BI)**: A Power BI centric project where I build interactive dashboards to visualize business insights.
-- **[Logistic Regression](https://github.com/gursimran8/Titanic_Logistic_Regression)**: Predict the survival of Titanic passengers based on various factors such as gender, passenger class, age, fare, and more.
+
   
 ### 💡 What I'm Learning:
 - Enhancing skills in **Data Science**, **Generative AI** and **Machine Learning**
