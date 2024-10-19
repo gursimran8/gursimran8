@@ -14,12 +14,8 @@ Welcome to my GitHub profile! I am a **Data Enthusiast** and a polished **Data-d
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-You can check out one of my ETL projects here:
 
-- **[SSIS-MySQL-ETL-Project](https://github.com/gursimran8/SSIS-MySQL-ETL-Project)**: ETL Project using SSIS to load e-commerce data into MySQL.
-
-
-### 📊 Current Projects:
+### 📊 Practical Experience:
 - **[SSIS-MySQL-ETL-Project](https://github.com/gursimran8/SSIS-MySQL-ETL-Project):** Demonstrating how to load and perform ETL on e-commerce data from a flat file into a MySQL database using SQL Server Integration Services (SSIS)
 - **[Logistic Regression](https://github.com/gursimran8/Titanic_Logistic_Regression)**: Predict the survival of Titanic passengers based on various factors such as gender, passenger class, age, fare, and more.
 - **[Data-cleaning-and-VBA](https://github.com/gursimran8/Data-cleaning-and-VBA)**: Automating data cleaning tasks using Python and SQL to streamline the workflow.
